@@ -90,7 +90,7 @@ Flask-Caching==1.11.1
 # Flask-DebugToolbar==0.11.0
 
 # Environment variable parsing
-python-dotenv==0.21.0
+python-dotenv==1.0.1
 
 # Logging
 python-json-logger==2.0.4
